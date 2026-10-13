@@ -13,7 +13,7 @@ android {
     }
 
     defaultConfig {
-        applicationId = "com.example.topic"
+        applicationId = "com.example.fragments"
         minSdk = 31
         targetSdk = 37
         versionCode = 1
