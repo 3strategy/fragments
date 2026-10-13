@@ -1,3 +1,9 @@
 <resources>
     <string name="app_name">Topic</string>
+    <string name="title_home">Home</string>
+    <string name="screen_home">This is the Home Fragment</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="screen_dashboard">This is the Dashboard Fragment</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="screen_notifications">This is the Notifications Fragment</string>
 </resources>
